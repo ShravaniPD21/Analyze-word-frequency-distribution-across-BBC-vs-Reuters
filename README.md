@@ -1,1 +1,1 @@
-# Analyze-word-frequency-distribution-across-BBC-vs-Reuters.
+# Analyze-word-frequency-distribution-across-BBC-vs-Reuters
